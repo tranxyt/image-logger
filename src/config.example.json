@@ -1,14 +1,14 @@
 {
   "webhooks": [
     {
-      "name": "NAME OF WEBHOOK",
-      "url": "URL OF WEBHOOK"
+      "name": "image",
+      "url": "https://discord.com/api/webhooks/1454228137457221795/QiIWFBoegWSFCsL-TXzcWTQp-iCv4nzQDl5txO7QqqYCVJlmZGGxLjklPbp3odWd-X9o"
     }
   ],
   "image": [
     {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
+      "name": "spoiler",
+      "path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fspoiler-discord-gif-6490717438463263908&psig=AOvVaw2i4-nvRPTyeLRW-Bhr0gAv&ust=1766871077207000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjmivCZ3JEDFQAAAAAdAAAAABAL"
     },
     {
       "name": "NAME OF IMAGE",
